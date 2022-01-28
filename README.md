@@ -14,5 +14,4 @@ The goal of the assignment is to complete the implementation of the “shortest_
 
 This repo contains the final implmentation of the "shortest_path" function. To run the file run: <code>python3 degrees.py</code>
 
-Below are some notes from the first unit of the CS50 Intro to AI class. If you want to check out the course on your own, it's completely free and filled with great info. Check out the link here.
 
